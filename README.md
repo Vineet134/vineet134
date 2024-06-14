@@ -1,14 +1,36 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3
+I'm a Full Stack Engineer with a passion for developing scalable and efficient web applications. I'm skilled in Node.js, Express.js, React.js, and MongoDB. I'm also diving into the world of DevOps with tools like AWS, Azure, Docker, and Kubernetes. Additionally, I'm enthusiastic about Machine Learning and Artificial Intelligence.
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=google)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet134&label=Profile%20views&color=0e75b6&style=flat" alt="vineet134" /> </p>
 
-- 🔭 I’m currently working on **education sector ,as well**
+- 🔭 I’m currently working on **educare website as well as developing new project with new addition of new skills.
 
-- 🌱 I’m currently learning **React JS, devops**
+- 🌱 I’m currently learning **React JS, Devops**
 
-- 💬 Ask me about **html,css,javascript,node js,express,mongo db,sql,tailwind css,java(DSA).**
+- 💬 Ask me about ** html ,css ,javascript ,node js, express Js,mongo db, sql ,tailwind css ,java(DSA).**
 
+- - 👯 I’m looking to collaborate on interesting open-source projects.
+    
+- 💬 Ask me about web development and DevOps.
+  
+- ⚡ Fun fact: I love solving complex algorithms and enjoy outdoor activities.
+  
 - 📫 How to reach me **vineetkumar58715@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
