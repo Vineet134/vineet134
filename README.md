@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3
-I'm a Full Stack Engineer with a passion for developing scalable and efficient web applications. I'm skilled in Node.js, Express.js, React.js, and MongoDB. I'm also diving into the world of DevOps with tools like AWS, Azure, Docker, and Kubernetes. Additionally, I'm enthusiastic about Machine Learning and Artificial Intelligence.
+I'm a Full Stack Engineer with a passion for developing scalable and efficient web applications. I'm skilled in Node.js, Express.js, React.js, and MongoDB. I'm also diving into the world of problem solving and developing the projects on real world problems. Additionally, I'm enthusiastic about Machine Levarning and Artificial Intelligence.
 
 ## 🛠️ Technologies & Tools
 
@@ -9,10 +9,6 @@ I'm a Full Stack Engineer with a passion for developing scalable and efficient w
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=google)
 
 
@@ -27,7 +23,7 @@ I'm a Full Stack Engineer with a passion for developing scalable and efficient w
 
 - - 👯 I’m looking to collaborate on interesting open-source projects.
     
-- 💬 Ask me about web development and DevOps.
+- 💬 Ask me about web development and DSA.
   
 - ⚡ Fun fact: I love solving complex algorithms and enjoy outdoor activities.
   
