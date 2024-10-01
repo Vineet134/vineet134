@@ -2,10 +2,6 @@
 <h3 align="center">A passionate full stack developer from  Bengaluru,India</h3
 I'm a Full Stack Engineer with a passion for developing scalable and efficient web applications. I'm skilled in Node.js, Express.js, React.js, and MongoDB. I'm also diving into the world of problem solving and developing the projects on real world problems. Additionally, I'm enthusiastic about Machine Levarning and Artificial Intelligence.
 
-## 🛠️ Technologies & Tools
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet134&label=Profile%20views&color=0e75b6&style=flat" alt="vineet134" /> </p>
 
