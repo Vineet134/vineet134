@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vineet Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3
+<h3 align="center">A passionate full stack developer from  Bengaluru,India</h3
 I'm a Full Stack Engineer with a passion for developing scalable and efficient web applications. I'm skilled in Node.js, Express.js, React.js, and MongoDB. I'm also diving into the world of problem solving and developing the projects on real world problems. Additionally, I'm enthusiastic about Machine Levarning and Artificial Intelligence.
+
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=google)
 
 
 
